@@ -9,3 +9,6 @@ Here are all the components used for leads4Needs website
 ![bandicam 2023-06-05 20-50-04-433](https://github.com/Shrey4299/Leads4Needs/assets/89632212/e88b0f9e-982c-48bf-be37-2b6da122608a)
 ![bandicam 2023-06-05 20-48-55-485](https://github.com/Shrey4299/Leads4Needs/assets/89632212/46b5bd90-ed38-4a45-8211-4e5921b6b36e)
 ![bandicam 2023-06-05 20-47-34-507](https://github.com/Shrey4299/Leads4Needs/assets/89632212/2760e21c-4d5f-47c5-9312-432295f8e5a9)
+![bandicam 2023-06-05 20-48-14-028](https://github.com/Shrey4299/Leads4Needs/assets/89632212/1e3e319a-37fa-4d45-ae92-d22f77adf082)
+![bandicam 2023-06-05 20-51-54-913](https://github.com/Shrey4299/Leads4Needs/assets/89632212/7e9d6284-4618-4218-bd64-846ed555a556)
+
